@@ -15,3 +15,5 @@ Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, na
 
 O Visual Studio Code deve buscar os pacotes necessários para configurar o projeto, aguarde até finalizar. Ao finalizar a busca, você pode executar o App 🏆
 
+teste
+
